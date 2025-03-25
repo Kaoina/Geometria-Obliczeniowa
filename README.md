@@ -1,11 +1,6 @@
 # Geometria-Obliczeniowa
 
-Repozytorium zawiera implementację algorytmów związanych z geometrią obliczeniową.
-Projekt może być użyteczny dla studentów informatyki, matematyków oraz programistów zajmujących się analizą geometryczną.
-
-## Wymagania
-
-- Python 3.10+
+Projekty z przedmiotu Geometria Obliczeniowa realizowanego na kierunku Inżynieria Obliczeniowa.
 
 ## Autor
 ja
